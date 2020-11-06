@@ -301,14 +301,14 @@ section .title::after{
  .services .serv-content .card:hover .box{
     transform: scale(1.05);
  }
- .services .serv-content .card .yh{
+ .services .serv-content .card i{
      font-size: 50px;
      color: crimson;
      transition: color 0.3s ease;
 
  } 
 
- .services .serv-content .card:hover .yh{
+ .services .serv-content .card:hover i{
     color: #fff;
 } 
 
