@@ -57,6 +57,7 @@
 }
 
 .navbar .menu li a{
+    display: block;
     color: #fff; 
     font-size: 18px;
     font-weight: 500px;
@@ -660,7 +661,7 @@ ul.social{
     margin: 0 auto;
     padding: 0;
     margin-top: top 5px;
-    font-size: 50px;
+    font-size: 25px;
 
 
 }
